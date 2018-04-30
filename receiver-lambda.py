@@ -1,7 +1,7 @@
 import json
 import requests
 VERIFY_TOKEN = "jeton_test_messenger_webhook"
-PAGE_ACCESS_TOKEN = "EAAYf24MXlloBAIShXxff8LlsG4ZCAA9ECQLWzci9Th5HlVVpOONNXbPUUBksJxUyHS3xqMAMzj5pmZCg1VMDZBETWQZCIZA8Mf0fM47jXsRZArqcrEEJoLzZAkQrWdA9YZBbjatQL1fC3lwI2qUMT5SZCToDZAXcdv3BcRPEZC5sLIe0wZDZD"
+PAGE_ACCESS_TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
 # Page ID, PAGE_ACCESS_TOKEN, APPID to be stored in dynamo db campaign table
 
 import boto3
